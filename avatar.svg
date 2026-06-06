@@ -1,0 +1,45 @@
+<svg width="500" height="500" viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg">
+
+<rect width="500" height="500" rx="0" fill="#0d1526"/>
+
+<circle cx="80" cy="90" r="2.5" fill="#60a5fa" opacity="0.5"/>
+<circle cx="420" cy="60" r="3" fill="#22d3ee" opacity="0.4"/>
+<circle cx="50" cy="380" r="2" fill="#a78bfa" opacity="0.3"/>
+<circle cx="450" cy="420" r="2.5" fill="#60a5fa" opacity="0.4"/>
+<circle cx="130" cy="40" r="1.5" fill="#22d3ee" opacity="0.35"/>
+<circle cx="370" cy="450" r="2" fill="#a78bfa" opacity="0.35"/>
+<circle cx="40" cy="200" r="2" fill="#60a5fa" opacity="0.3"/>
+<circle cx="460" cy="250" r="1.5" fill="#22d3ee" opacity="0.25"/>
+<circle cx="250" cy="30" r="2" fill="#60a5fa" opacity="0.3"/>
+<circle cx="250" cy="470" r="1.5" fill="#a78bfa" opacity="0.25"/>
+
+<line x1="80" y1="90" x2="130" y2="40" stroke="#3b82f6" stroke-width="0.5" opacity="0.2"/>
+<line x1="420" y1="60" x2="370" y2="450" stroke="#22d3ee" stroke-width="0.3" opacity="0.1"/>
+<line x1="50" y1="380" x2="80" y2="90" stroke="#a78bfa" stroke-width="0.4" opacity="0.15"/>
+<line x1="450" y1="420" x2="460" y2="250" stroke="#60a5fa" stroke-width="0.4" opacity="0.15"/>
+<line x1="40" y1="200" x2="80" y2="90" stroke="#60a5fa" stroke-width="0.3" opacity="0.15"/>
+<line x1="250" y1="30" x2="420" y2="60" stroke="#3b82f6" stroke-width="0.3" opacity="0.12"/>
+<line x1="250" y1="30" x2="130" y2="40" stroke="#22d3ee" stroke-width="0.3" opacity="0.12"/>
+
+<circle cx="105" cy="160" r="4" fill="#3b82f6" opacity="0.15"/>
+<circle cx="105" cy="160" r="2" fill="#3b82f6" opacity="0.4"/>
+<circle cx="395" cy="340" r="4" fill="#22d3ee" opacity="0.15"/>
+<circle cx="395" cy="340" r="2" fill="#22d3ee" opacity="0.4"/>
+<circle cx="350" cy="130" r="3.5" fill="#a78bfa" opacity="0.12"/>
+<circle cx="350" cy="130" r="1.5" fill="#a78bfa" opacity="0.35"/>
+<circle cx="150" cy="370" r="3.5" fill="#60a5fa" opacity="0.12"/>
+<circle cx="150" cy="370" r="1.5" fill="#60a5fa" opacity="0.35"/>
+
+<line x1="105" y1="160" x2="350" y2="130" stroke="#3b82f6" stroke-width="0.4" opacity="0.1"/>
+<line x1="150" y1="370" x2="395" y2="340" stroke="#22d3ee" stroke-width="0.4" opacity="0.1"/>
+
+<text x="250" y="235" text-anchor="middle" font-family="Georgia, serif" font-size="130" font-weight="400" fill="#eef0f6" letter-spacing="-2">G</text>
+
+<text x="250" y="370" text-anchor="middle" font-family="sans-serif" font-size="36" font-weight="300" fill="#8a92a8" letter-spacing="16">MAKWANA</text>
+
+<line x1="140" y1="270" x2="360" y2="270" stroke="#3b82f6" stroke-width="0.8" opacity="0.3"/>
+<circle cx="140" cy="270" r="3" fill="#22d3ee" opacity="0.6"/>
+<circle cx="250" cy="270" r="2" fill="#3b82f6" opacity="0.4"/>
+<circle cx="360" cy="270" r="3" fill="#22d3ee" opacity="0.6"/>
+
+</svg>
